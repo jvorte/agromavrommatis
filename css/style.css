@@ -213,20 +213,20 @@ button {
 
 .header_section {
     width: 100%;
-    float: left;
-    background-image: url(../images/apple18.jpg);
+    /* float: left; */
+    background-image: url(../images/apple26.jpg);
     height: auto;
     padding: 20px 0;
     background-size: cover;
     background-repeat: none;
-    /* background-position: bottom; */
+    background-position: ;
     min-height: 100vh;
 
 }
 .header_second{
     width: 100%;
     float: left;
-    background-image: url(../images/apple18.jpg);
+    background-image: url(../images/apple26.jpg);
     height: auto;
     padding: 20px 0;
     background-size: cover;
@@ -255,6 +255,7 @@ button {
     padding: 2px 30px;
     font-size: 17px;
     color: #ffffff;
+    text-shadow: 1px 1px black;
 
 }
 
@@ -581,7 +582,7 @@ button {
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #141629;
+    background-color: #254e33;
     height: auto;
     margin-top: 50px;
 }
